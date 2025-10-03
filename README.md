@@ -51,4 +51,4 @@ Poverty estimates are often limited to coarse survey data. Integrating **Earth O
 ## Contact  
 Created by **Sid Ousmane OURBA**  
 - GitHub: [Dalyo](https://github.com/dalyo)  
-- LinkedIn: [Sid Ousmane OURBA](https://www.linkedin.com/in/dalyo-sid-ousmane-ourba-b81474122/)  
+- LinkedIn: [Dalyo Sid Ousmane OURBA](https://www.linkedin.com/in/dalyo-sid-ousmane-ourba-b81474122/)  
